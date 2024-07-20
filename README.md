@@ -4,6 +4,7 @@ Turing machine (TM) to reverse a string consisting of a’s and b’s over an al
 # Example
 
 Input − aabbab
+
 Output − babbaa
 
 # Algorithm
